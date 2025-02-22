@@ -1,3 +1,3 @@
 # Project01_TxtEditor
-My first project in my operating systems class, where I set up a text editor called 'kilo' using C
-using the documentation found at https://viewsourcecode.org/snaptoken/kilo/
+The first part of the setup of the text editor, in which raw mode must be defined and accessed by 
+the program and switched between through method calls
