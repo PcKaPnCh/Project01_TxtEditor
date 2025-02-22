@@ -1,3 +1,4 @@
 # Project01_TxtEditor
-My first project in my operating systems class, where I set up a text editor called 'kilo' using C
-using the documentation found at https://viewsourcecode.org/snaptoken/kilo/
+This part of the creation of the text editor involves allowing the text editor to deposit input
+from the keyboard as well as do other functions such as updating the cursor position, inserting
+characters, and deleting characters
