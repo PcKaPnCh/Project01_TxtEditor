@@ -1,3 +1,4 @@
 # Project01_TxtEditor
-My first project in my operating systems class, where I set up a text editor called 'kilo' using C
-using the documentation found at https://viewsourcecode.org/snaptoken/kilo/
+Similar to other text editors (such as vim) there needs to be lines created in order to organize
+the text and separate lines from each other as well as create a structure for the text editor to
+deposit input from the keyboard
