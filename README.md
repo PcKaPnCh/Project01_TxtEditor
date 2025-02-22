@@ -1,3 +1,3 @@
 # Project01_TxtEditor
-My first project in my operating systems class, where I set up a text editor called 'kilo' using C
-and following the documentation found at https://viewsourcecode.org/snaptoken/kilo/
+In this part of the project, a search function was implemented into the text editor in order to
+search for certain keywords/phrases within the walls of text
